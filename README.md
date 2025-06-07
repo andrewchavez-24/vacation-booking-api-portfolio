@@ -30,7 +30,7 @@ This RESTful API modernizes a legacy 1990s travel booking system using Java and 
 ---
 
 ## 📂 Repository  
-🔗 [View Code on GitLab](#) *(private repo or placeholder link)*
+🔗 [View Code](https://github.com/andrewchavez-24/d287-java-frameworks)
 
 ---
 
