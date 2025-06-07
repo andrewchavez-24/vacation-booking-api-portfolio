@@ -1,32 +1,38 @@
-# Vacation Booking API – Legacy Migration (Demo Overview)
+# 🧳 Vacation Booking API (Legacy Back-End Migration)
 
-> 📌 *This repository is public for demonstration purposes only. All code remains private in compliance with WGU’s academic integrity policy.*
+**Course:** Back-End Programming – Spring REST API for Legacy Migration  
+**Tech Stack:** Java · Spring Boot · Spring Data JPA · MySQL · REST APIs · Lombok · GitLab
 
-This project modernizes a legacy vacation booking backend by refactoring it into a clean and scalable Spring Boot REST API. It handles customer data, booking logic, and MySQL persistence — all using modern design principles and tools.
+---
 
-## 🧰 Tech Stack
-- Java (OOP)
-- Spring Boot
-- RESTful APIs
-- DTOs for clean API responses
-- MySQL for persistent storage
+## 📋 Overview  
+This RESTful API modernizes a legacy 1990s travel booking system using Java and Spring Boot. It supports full customer and vacation package management, with database persistence, input validation, and DTO-based API responses. The backend is designed to connect seamlessly with an Angular front-end and a MySQL database.
 
-## 🎯 Key Features
-- Customer and booking endpoints with validation
-- Refactored legacy business logic into services and controllers
-- DTO-based JSON responses for client applications
-- Full CRUD operations for vacation packages and reservations
-- MySQL database integration
+---
 
-## 📦 Tools & Concepts
-- IntelliJ IDEA
-- Postman (API testing)
-- MVC Architecture
-- Data validation with annotations
-- API design best practices
+## 🎯 Features
+- RESTful API endpoints for creating, updating, and deleting bookings
+- MVC structure with controllers, services, and repositories
+- DTOs and validation for clean, secure request/response handling
+- Entity relationships managed with Spring Data JPA
+- Sample customer data seeded on application startup
+- Supports integration with front-end and external tools (e.g., Postman)
 
-## 📸 Demo Screenshots
-*Postman/Swagger screenshots available upon request.*
+---
 
-## 📬 Contact
+## 🛠️ What I Built
+- Developed full backend: controllers, services, entities, and repositories
+- Designed and documented REST API endpoints
+- Implemented validation logic for customer and booking inputs
+- Integrated with MySQL and tested full-stack connectivity
+- Used GitLab for version control with clear commit history
+
+---
+
+## 📂 Repository  
+🔗 [View Code on GitLab](#) *(private repo or placeholder link)*
+
+---
+
+## 📬 Contact  
 View my full developer portfolio at [andrewchavezportfolio.carrd.co](https://andrewchavezportfolio.carrd.co)
